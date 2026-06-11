@@ -1,4 +1,4 @@
----
+﻿---
 name: personal-growth
 version: 1.0.0
 author: wanglin1111111
@@ -13,7 +13,7 @@ description: |
 ## Skill: self-capability-growth-framework
 
 ---
-name: self-capability-growth-framework
+name: personal-growth
 version: 1.0.0
 author: wanglin1111111
 license: MIT
